@@ -40,8 +40,8 @@ This project implements a **multi-agent AI system** for automating research work
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/multi-agent-research.git
-cd multi-agent-research
-pip install -r requirements.txt
-export GROQ_API_KEY="your_groq_api_key"
+git clone https://github.com/JavidanAhmadliAze/MultiAgenticAI.git
+cd MultiAgenticAI
+uv add -r requirements.txt
+
 
